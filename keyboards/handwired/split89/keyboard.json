@@ -13,8 +13,8 @@
         "command": false,
         "console": false,
         "extrakey": true,
-        "mousekey": true,
-        "nkro": false
+        "mousekey": false,
+        "nkro": true
     },
     "qmk": {
         "locking": {
